@@ -13,3 +13,7 @@ python parse-html-watch-history.py watch-history.html yt-history.csv
 ```
 
 **NOTE:** If you have installed the packages into a virtual environment, then instead of 'python' you might have to use './Scripts/python.exe'
+
+## Resources
+
+- A helpful resource - https://github.com/menggatot/youtube-watch-history-to-csv
