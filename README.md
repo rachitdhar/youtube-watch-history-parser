@@ -4,6 +4,7 @@ Program to extract history from youtube watch history HTML file, and write the l
 ## Steps to use
 
 - Get your youtube watch history from Google Takeout. You will receive a zip file containing the watch_history.html file (at the path: Takeout/Youtube and YouTube Music/history/).
+- Place that html file into this downloaded repository.
 - Install the required packages (as mentioned in requirements.txt).
 - Run the following shell command to create a new CSV file with name yt-history.csv (or any other name of your choosing) containing the extracted links and titles:
 
